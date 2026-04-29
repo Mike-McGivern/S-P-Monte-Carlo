@@ -1,0 +1,16 @@
+D:\VB_learning\scripts\generateReport\bin\Debug\net8.0-windows\generateReport.exe
+D:\VB_learning\scripts\generateReport\bin\Debug\net8.0-windows\generateReport.deps.json
+D:\VB_learning\scripts\generateReport\bin\Debug\net8.0-windows\generateReport.runtimeconfig.json
+D:\VB_learning\scripts\generateReport\bin\Debug\net8.0-windows\generateReport.dll
+D:\VB_learning\scripts\generateReport\bin\Debug\net8.0-windows\generateReport.pdb
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\generateReport.Form1.resources
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\generateReport.vbproj.GenerateResource.cache
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\generateReport.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\generateReport.AssemblyInfoInputs.cache
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\generateReport.AssemblyInfo.vb
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\generateReport.vbproj.CoreCompileInputs.cache
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\generateReport.dll
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\refint\generateReport.dll
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\generateReport.pdb
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\generateReport.genruntimeconfig.cache
+D:\VB_learning\scripts\generateReport\obj\Debug\net8.0-windows\ref\generateReport.dll
